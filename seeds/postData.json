@@ -1,0 +1,32 @@
+[
+    {
+        "title":"Mickey mouse Club House",
+        "content":"Mickey mouse Club House is one of the best shows of all time",
+        "user_id":"1"
+    },
+    {
+        "title":"I look good today!",
+        "content":"I'm one of the best looking people in thw world",
+        "user_id":"2"
+    },
+    {
+        "title":"Education is key",
+        "content":"You must do your home work on time",
+        "user_id":"3"
+    },
+    {
+        "title":"Police",
+        "content":"Make sure you stay safe",
+        "user_id":"4"
+    },
+    {
+        "title":"Fab",
+        "content":"I'm just so fab!!",
+        "user_id":"5"
+    },
+    {
+        "title":"Art",
+        "content":"Art is my past time I love it so much",
+        "user_id":"6"
+    }
+]

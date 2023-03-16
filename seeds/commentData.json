@@ -1,0 +1,38 @@
+[
+  {
+    "comment_content": "Great to know!",
+    "user_id": 1,
+    "post_id": 3,
+    "userName": "Brandon"
+  },
+  {
+    "comment_content": "Good idea!",
+    "user_id": 2,
+    "post_id": 3,
+    "userName": "Tay"
+  },
+  {
+    "comment_content": "Hope this helps!",
+    "user_id": 3,
+    "post_id": 2,
+    "userName": "Nina"
+  },
+  {
+    "comment_content": "Good job!",
+    "user_id": 4,
+    "post_id": 1,
+    "userName": "George"
+  },
+  {
+    "comment_content": "Can't wait to try this!",
+    "user_id": 5,
+    "post_id": 1,
+    "userName": "Christina"
+  },
+  {
+    "comment_content": "This will save time.",
+    "user_id": 6,
+    "post_id": 2,
+    "userName": "Mychal"
+  }
+]
