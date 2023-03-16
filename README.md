@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-=======
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 
 ## Table of Contents
