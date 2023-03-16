@@ -7,8 +7,6 @@
 
 ## Table of Contents
 
-> > > > > > > c7649bf7a0150e6d010f979f4c0003e23a2d2052
-
 - [User Story](#user-story)
 - [Description](#description)
 - [Installation](#installation)
